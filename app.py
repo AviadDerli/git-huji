@@ -1,2 +1,2 @@
-num=100
+num=999
 print(num*num+num)
