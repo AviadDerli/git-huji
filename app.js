@@ -1,2 +1,2 @@
-let num = 10;
-console.log(num);
+let num = 872798;
+console.log("🍃🍃🍃🍃🍃");
